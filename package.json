@@ -1,0 +1,13 @@
+{
+  "name": "pycalc",
+  "main": "./lib/pycalc",
+  "version": "1.0.0",
+  "description": "The pycalc plugin enables the execution of python code directly within the editor upon pressing the Enter key.",
+  "keywords": ["calculator", "repl", "python"],
+  "repository": "https://github.com/pycalc-plugin/atom",
+  "license": "Apache-2.0",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,19 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "pycalc [✓]",
+        "command": "pycalc:enable"
+      },
+      {
+        "label": "pycalc [×]",
+        "command": "pycalc:disable"
+      },
+      {
+        "label": "pycalc selected",
+        "command": "pycalc:selected"
+      }
+    ]
+  },
+  "menu": []
+}
